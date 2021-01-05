@@ -1,1 +1,2 @@
-Test for Git!
+Test for Git!Amend!!!
+123456
