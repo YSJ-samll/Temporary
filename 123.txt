@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Test for Git!
 112355
 111111
+=======
+Test for Git!Amend!!!
+123456
+>>>>>>> 8e5f7873d5efa3e29f220562620df4087de88260
